@@ -51,7 +51,7 @@ PrintFlow is a self-hosted web app that streamlines the full upload-to-publish p
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/printflow.git
+git clone https://github.com/Furifix/printflow.git
 cd printflow
 ```
 
