@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment & secrets — NEVER commit these
+.env
+.env.*
+
+# Runtime data (contains API keys & user config)
+data/
+uploads/
+
+# Logs
+*.log
+server.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Misc scripts
+*.mjs
+test_*.js
+test_*.cjs
+update_publish.js
+fetch_*.mjs
+print_*.mjs
+check_*.mjs
+inspect_*.mjs
