@@ -23,6 +23,11 @@ PrintFlow is a self-hosted web app that streamlines the full upload-to-publish p
 - **Runs as a System Service** — Ships with a `systemd` service file for persistent, always-on operation that survives reboots and hibernation
 - **Reverse Proxy Ready** — Works behind Nginx Proxy Manager or any reverse proxy
 
+<img width="3744" height="1903" alt="image" src="https://github.com/user-attachments/assets/7d877a25-17fa-487e-8ecd-367f883c3b3d" />
+
+<img width="1609" height="1375" alt="image" src="https://github.com/user-attachments/assets/b0bf9b6a-c791-4518-a692-5505ffbd31a0" />
+
+
 ---
 
 ## Tech Stack
