@@ -10,7 +10,8 @@
     "start": "node server.js",
     "preview": "vite preview",
     "electron:start": "vite build && electron .",
-    "electron:build": "vite build && electron-builder --win"
+    "electron:build": "vite build && electron-builder --win",
+    "release": "electron-builder --win -p always"
   },
   "build": {
     "appId": "com.furifix.printflow",
